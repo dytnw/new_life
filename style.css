@@ -1,0 +1,92 @@
+html {
+    font-family: Domine, Signika, 'Times New Roman', Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    background-color: #FFe8b8;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+}
+
+li a {
+    font-size: 3rem;
+    padding-left: 3rem;
+}
+
+#headerall {
+    background-color: #0327d2; 
+}
+
+header img {
+    padding-top: 2% !important;
+}
+
+#headerall li a {
+    color: white;
+}
+
+#righthome {
+    background-color: green;
+}
+
+#pricepage li {
+    font-size: 2.5rem;
+} 
+
+#pricesall {
+    font-size: 2.5rem; 
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+#contactmain {
+    font-size: 2.5rem;
+}
+
+#whatwedomain {
+    font-size: 2.5rem;
+}
+
+#pricesbottom {
+    font-size: 2rem;
+}
+
+.row {
+    display: flex;
+}
+  
+.column {
+    flex: 33.33%;
+    padding: 5px;
+}
+
+#aboutpage h1 {
+    font-size: 2.5rem;
+}
+
+#aboutpage p {
+    font-size: 2.5rem;
+}
+#homepage h1 {
+    font-size: 5.5rem;
+}
+
+#wwdp img {
+    width:300px;
+}
+
+#homepic img {
+    width:1000px;
+}
+
+#homepic center h1 img {
+    width: 10%;
+    display:block;
+}
+
+ul li a {
+    font-size: 1.5rem;
+}
