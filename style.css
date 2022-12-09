@@ -41,6 +41,14 @@ center h1 {
 .column {
     flex: 33.33%;
     padding: 5px;
+    font-size: 2rem;
+}
+
+.column3 {
+    flex: 33.33%;
+    padding: 5px;
+    font-size: 2rem;
+    color: #FFe8b8;
 }
 
 #aboutpage h1 {
@@ -71,7 +79,7 @@ ul li a {
     font-size: 1.5rem;
 }
 
-#pricesleft img {
+#pricesall img {
     width: 250px;
 }
 
@@ -93,4 +101,12 @@ ul li a {
 
 #pricesbottom {
     font-size: 2rem;
+}
+
+#wwdp td center {
+    font-size: 2.5rem;
+}
+
+footer center a {
+    color: #0327d2;
 }
